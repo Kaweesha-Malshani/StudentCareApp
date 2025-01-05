@@ -4,7 +4,7 @@ import Logo from '../components/Logo';
 import Footer from '../components/Footer';
 import { TextInput } from 'react-native-paper';
 import { useState } from 'react';
-import { students } from '../../assets/data/StudentsDb';
+import { students } from '../../assets/data/StudentDb';
 
 export default function Login({ navigation, setUser }) {
   const [form, setForm] = useState({
