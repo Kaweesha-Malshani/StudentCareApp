@@ -107,6 +107,13 @@ Shows the average marks calculated from the subjects.
 
   Profile Page – Displays user profile details.
 
+  ## Output
+
+https://github.com/user-attachments/assets/77881ed3-f57b-4877-8e1b-9c37f82727cb
+
+
+  
+
   Course Page – Lists courses.
 
   Subjects Page – Shows subject details and marks.
